@@ -30,7 +30,7 @@ public class HelloJDBC {
 		int deptno = sc.nextInt();
 		System.out.println("請輸入要新增的部門名稱");
 		String dname = sc.next();
-		System.out.println("請輸入要新增的部門所在地");
+		System.out.println("請輸入要新增的部門所在地!!");
 		String loc = sc.next();
 		
 		sc.close();
